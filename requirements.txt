@@ -1,6 +1,4 @@
-torch<=1.10.0+cpu 
-torchvision<=0.11.1+cpu
+torch>=1.10.0+cp111
+torchvision>=0.11.1+cp111
 fastai>=2.5.3
-voila
-ipywidgets
 timm
