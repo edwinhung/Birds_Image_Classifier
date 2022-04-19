@@ -1,3 +1,0 @@
-fastai
-voila
-ipywidgets
