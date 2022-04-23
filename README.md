@@ -9,8 +9,8 @@ Often time we encounter a beautiful bird outdoor and are curious about which spe
 # Dataset
 [BIRDS 400](https://www.kaggle.com/datasets/gpiosenka/100-bird-species) on Kaggle contains a total of 62388 images of 400 bird species.
 
-# Neural network with fastai
-Thanks to the great [dataset](https://www.kaggle.com/datasets/gpiosenka/100-bird-species) on Kaggle, this project trains a neural network with fastai framework. Transfer learning is used with pre-trained efficient net from the convenient timm library. The result is an impressive 99.4% accuracy on given test set*.
+# Training neural network with fastai
+Thanks to the great [dataset](https://www.kaggle.com/datasets/gpiosenka/100-bird-species) on Kaggle, this project trains a neural network with fastai API. Transfer learning is used with pre-trained efficient net from the convenient timm library (timm is now integrated into fastai after this project was completed, please check out [timm.fast.ai](https://timm.fast.ai/)). The result is an impressive 99.4% accuracy on given test set*.
 
 *see notes from Kaggle dataset provider
 
